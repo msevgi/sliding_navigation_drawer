@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="drawerBackground">#F2F2F2</color>
+    <color name="windowBackground">#DEDEDE</color>
+    <color name="textPrimaryColor">#FFFFFF</color>
+
+    <color name="navigationColor">#000000</color>
+
+    <color name="selected_gray">#ffdbdbdb</color>
+
+    <color name="text_color">#000000</color>
+
+    <color name="fab_colorNormal">#2879A9</color>
+    <color name="fab_colorPressed">#0000dd</color>
+    <color name="fab_colorRipple">#00000f</color>
+</resources>
